@@ -11,5 +11,13 @@
     "limiter"
   ],
   "author": "Aditya Soni",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasoni-slicepay/sp-ratelimiter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adityasoni-slicepay/sp-ratelimiter/issues"
+  },
+  "homepage": "https://github.com/adityasoni-slicepay/sp-ratelimiter#readme"
 }
