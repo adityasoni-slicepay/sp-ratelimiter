@@ -1,0 +1,15 @@
+{
+  "name": "sp-ratelimiter",
+  "version": "1.0.2",
+  "description": "Rate limiter package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rate",
+    "limiter"
+  ],
+  "author": "Aditya Soni",
+  "license": "ISC"
+}
